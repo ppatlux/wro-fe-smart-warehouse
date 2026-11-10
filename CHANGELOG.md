@@ -10,6 +10,6 @@ Versions use the format **x.y.z**:
 - **y** – a part changed shape. The entry lists which parts to reprint.
 - **x** – a new season or a rules change.
 
-## [1.0.0] – YYYY-MM-DD
+## [1.0.0] – 2026-11-10
 
 - First public release.
