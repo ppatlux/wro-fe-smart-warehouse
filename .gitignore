@@ -1,0 +1,13 @@
+# Blender backups and temp files
+*.blend1
+*.blend2
+*.blend@
+
+# Slicer output
+*.gcode
+*.bgcode
+
+# System files
+Thumbs.db
+desktop.ini
+.DS_Store

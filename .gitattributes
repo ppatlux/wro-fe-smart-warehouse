@@ -1,0 +1,12 @@
+# Large source and project files: stored with Git LFS
+*.blend filter=lfs diff=lfs merge=lfs -text
+*.step  filter=lfs diff=lfs merge=lfs -text
+*.stp   filter=lfs diff=lfs merge=lfs -text
+*.3mf   filter=lfs diff=lfs merge=lfs -text
+*.zip   filter=lfs diff=lfs merge=lfs -text
+
+# Binary files kept in normal Git (GitHub 3D preview and image comparison)
+*.stl binary
+*.png binary
+*.jpg binary
+*.pdf binary

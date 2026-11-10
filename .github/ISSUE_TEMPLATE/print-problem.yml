@@ -1,0 +1,33 @@
+name: Print problem
+description: A part did not print or fit as expected.
+labels: ["problem"]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Which version of the kit? See the release name or CHANGELOG.md.
+      placeholder: e.g. 1.0.0
+    validations:
+      required: true
+  - type: input
+    id: part
+    attributes:
+      label: Which part / file name
+      placeholder: e.g. stl/rack/Base.stl
+    validations:
+      required: true
+  - type: input
+    id: printer
+    attributes:
+      label: Printer and material
+      placeholder: e.g. Prusa MK4, HP FastPLA
+    validations:
+      required: false
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened
+      description: Describe the problem and add photos (drag and drop them here).
+    validations:
+      required: true
