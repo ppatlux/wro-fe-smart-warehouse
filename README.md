@@ -4,7 +4,10 @@
 
 ![Smart Warehouse game elements](images/Cam_3_Side.png)
 
-Prefer a ready-made set? The printed kit is available in the [shop](https://shop.moravia.education/wro-future-engineers-smart-warehouse.html).
+## Links
+
+- [WRO Future Engineers – Smart Warehouse](https://wro-association.org/about-wro/future-engineers-smart-warehouse-participants/): official information for participants from the World Robot Olympiad.
+- [Ready-made printed kit](https://shop.moravia.education/wro-future-engineers-smart-warehouse.html): buy the complete set in our e-shop.
 
 ## Download
 
